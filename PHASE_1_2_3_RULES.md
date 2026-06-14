@@ -1,6 +1,6 @@
 # Stock Watchlist Workflow Rules — Phase 1, Phase 2 and Phase 3
 
-Last updated: 09 June 2026
+Last updated: 14 June 2026
 
 This file is the operating rulebook for the stock watchlist workflow.
 
@@ -413,6 +413,8 @@ Phase 3 is the detailed stock deep dive for selected stocks.
 
 It should be thorough, decision-oriented and specific to the selected stock.
 
+A report should not be called a full Phase 3 if it only covers one theme such as data centres, defence, EMS, cooling or AI. Such reports must be labelled as a focused theme deep dive unless the complete checklist below is covered.
+
 ---
 
 ### 3.2 Mandatory Phase 3 Sections
@@ -422,31 +424,63 @@ A Phase 3 report should cover:
 1. Business overview
 2. Segment / revenue mix
 3. Industry theme and long-term opportunity
-4. Latest quarterly and annual earnings
-5. Revenue, EBITDA, margins, PAT, EPS and YoY/QoQ trend
-6. Segment performance
-7. Earnings beat/miss versus expectations where available
-8. Management commentary and future signals
-9. Earnings-call / investor-presentation highlights where available
-10. Whether earnings support or weaken the thesis
-11. Order book / pipeline where relevant
-12. Cash flow, receivables, debtor days and working-capital quality
-13. Debt, leverage and balance-sheet risk
-14. Valuation versus peers / industry
-15. Technical setup: trend, support, resistance and 52W position
-16. Stock-specific news and sector news
-17. Magazine-style mentions, long-form features or current news mentions
-18. Institutional / smart-money evidence where available
-19. Political connection, governance concern, legal/regulatory case or promoter risk
-20. Event risk: geopolitical, election, war, regulatory, commodity, currency or sector-specific
-21. Worst-case scenario
-22. Timing and entry plan
-23. Three buy-range views
-24. Final action
+4. Theme validation and thesis-disproof checklist
+5. Latest quarterly and annual earnings
+6. Revenue, EBITDA, margins, PAT, EPS and YoY/QoQ trend
+7. Segment performance
+8. Earnings beat/miss versus expectations where available
+9. Management commentary and future signals
+10. Earnings-call / investor-presentation highlights where available
+11. Whether earnings support or weaken the thesis
+12. Order book / pipeline where relevant
+13. Cash flow, receivables, debtor days and working-capital quality
+14. Debt, leverage and balance-sheet risk
+15. Valuation versus peers / industry
+16. Technical setup: trend, support, resistance and 52W position
+17. Stock-specific news and sector news
+18. Magazine-style mentions, long-form features or current news mentions
+19. Institutional / smart-money evidence where available
+20. Political connection, governance concern, legal/regulatory case or promoter risk
+21. Event risk: geopolitical, election, war, regulatory, commodity, currency or sector-specific
+22. Worst-case scenario
+23. Timing and entry plan
+24. Three buy-range views
+25. Final action
 
 ---
 
-### 3.3 Phase 3 Buy-Range Rules
+### 3.3 Theme Validation and Thesis-Disproof Rules
+
+For every Phase 3 linked to a theme such as data centres, cooling, liquid cooling, EMS, defence, railways, water, power equipment, AI, semiconductors, exchanges/platforms, renewables, ethanol, manufacturing or any other major narrative, include a dedicated **Theme Validation** block.
+
+This block must answer these questions directly:
+
+| Question | Required Phase 3 treatment |
+|---|---|
+| What percentage of revenue directly links to the theme? | Quantify from disclosed revenue where possible. If not disclosed, estimate carefully from order book, segment mix or management commentary and label it as an estimate. |
+| Is revenue recurring or project-based? | Separate recurring, product, consumable, services, AMC, licensing, order-book and one-off project revenue. |
+| Is operating cash flow keeping pace with profit? | Compare CFO with PAT/EBITDA and comment on cash conversion quality. |
+| Are receivables rising faster than revenue? | Compare receivable growth, debtor days and working-capital trend with revenue growth. |
+| Is there proprietary technology or only services/implementation? | Separate owned product/IP from system integration, EPC, MEP, trading, assembly or implementation. |
+| Does the company have patents/IP or only assembly? | Mention patents, R&D, certifications, design ownership, process know-how, licensing, JV or partner dependency where available. |
+| Is the theme already priced into valuation? | Compare current valuation with earnings growth, peers, 52W position, historical valuation and theme maturity. |
+| What single metric would disprove the thesis? | Define one measurable metric that would break or weaken the investment thesis. |
+| Is growth driven by policy, price, volume or execution? | Classify the growth driver clearly instead of only saying the theme is strong. |
+| Is the company a first-order or second-order beneficiary? | First-order means direct revenue/profit from the theme. Second-order means indirect supplier, component, MEP/EPC, services, financing, distribution or optionality exposure. |
+
+If these answers cannot be validated, Phase 3 must say **Not disclosed / Not proven** instead of guessing.
+
+For theme stocks, the report must clearly separate:
+
+1. Actual current revenue/profit exposure
+2. Management's future plan
+3. Market narrative / optionality
+4. What is proven versus what is only possible
+5. What would disprove the thesis
+
+---
+
+### 3.4 Phase 3 Buy-Range Rules
 
 Phase 3 must include three separate buy-range views:
 
@@ -458,7 +492,7 @@ The report must also state which buy-range view should be prioritized.
 
 ---
 
-### 3.4 Phase 3 Debt and Risk Rules
+### 3.5 Phase 3 Debt and Risk Rules
 
 Always explicitly discuss:
 
@@ -475,7 +509,7 @@ Do not ignore debt even for high-growth or popular stocks.
 
 ---
 
-### 3.5 Phase 3 Management and Earnings Rules
+### 3.6 Phase 3 Management and Earnings Rules
 
 Always highlight:
 
@@ -488,17 +522,19 @@ Always highlight:
 
 ---
 
-### 3.6 Phase 3 Portfolio Context Rules
+### 3.7 Phase 3 Portfolio Context Rules
 
 When the user already owns a related stock, include concentration risk.
 
 Example:
 
-If analyzing Kaynes, consider the user’s existing PGEL / PG Electroplast holding because both sit in the broader EMS/electronics manufacturing exposure bucket, even though their businesses are not identical.
+If analyzing Kaynes, consider the user's existing PGEL / PG Electroplast holding because both sit in the broader EMS/electronics manufacturing exposure bucket, even though their businesses are not identical.
+
+For cooling/data-centre names, compare exposure overlap across Blue Star, PGEL, Schneider Electric Infrastructure, Aeroflex, KRN Heat Exchanger, Voltas, Amber, data-centre power-infra names and EMS names where relevant.
 
 ---
 
-### 3.7 Phase 3 Final Action Rules
+### 3.8 Phase 3 Final Action Rules
 
 The final action should be clear and use decision language such as:
 
@@ -516,6 +552,7 @@ The final action must include:
 - Entry plan
 - Risk level
 - What would change the view
+- What single metric would disprove the thesis
 
 ---
 
@@ -529,6 +566,8 @@ The final action must include:
 - Keep Phase 1 clean and actionable.
 - Keep Phase 2 short and user-driven.
 - Keep Phase 3 thorough and decision-grade.
+- For theme stocks, always separate current proven exposure from future optionality.
+- For high-valuation stocks, explicitly check whether the theme is already priced in.
 
 ---
 
@@ -536,7 +575,7 @@ The final action must include:
 
 Phase 1 gives the daily shortlist.
 
-Phase 2 is the user’s selection step.
+Phase 2 is the user's selection step.
 
 Phase 3 gives the full investment decision framework.
 
