@@ -1,6 +1,6 @@
 # Priority Research Watch
 
-Last updated: 17 August 2026
+Last updated: 27 August 2026
 
 Purpose: keep a small set of high-conviction research names visible across Phase 1 and the India Bonus/Buyback/Smart Money report, especially when valuation/technical levels become attractive. This is a research-priority file, not an automatic buy list. All decisions remain subject to MASTER_INVESTMENT_RULES.md and Phase 3 validation.
 
@@ -65,6 +65,48 @@ then immediately re-run a full Phase 3 and compare Ion Exchange against WABAG fo
 
 If utilisation rises but margins/cash flow do not improve, keep WABAG preferred and do not reward the Roha narrative.
 
+## Mandatory Water Theme Cross-Check — Applies to Every Investment Report
+
+Water must be checked in every Phase 1, Bonus/Buyback/Smart Money, weekly holdings, weekly review and other investment-market report, even when the day's main news does not explicitly mention water.
+
+At minimum, scan for material developments in:
+- water and wastewater treatment,
+- desalination,
+- sewage treatment,
+- industrial water and zero-liquid-discharge/reuse,
+- high-purity/ultrapure water for semiconductors, electronics, solar, power, pharma and data centres,
+- municipal/Jal Jeevan/AMRUT/state capex,
+- pumping, membranes, resins, treatment chemicals, EPC and O&M,
+- industrial capex or policy developments that create second-order water demand.
+
+### Mandatory names
+- VA Tech WABAG — always check seriously.
+- Ion Exchange — always check seriously, including the Roha turnaround checkpoints.
+- Scan relevant peers/beneficiaries only when evidence or sector developments justify it; examples may include EMS Ltd, Enviro Infra Engineers, Denta Water, SPML Infra/JWIL and other credible listed participants. Do not force a company into the report merely to fill the theme.
+
+### What the water check must test
+- fresh order wins/losses/cancellations and order quality,
+- order book and executable revenue visibility,
+- O&M/recurring-revenue share,
+- revenue, EBITDA/PAT and margin direction,
+- operating cash flow and cash conversion,
+- receivables/working capital,
+- debt/net cash,
+- capacity/utilisation where relevant,
+- management guidance and execution commentary,
+- policy/municipal/industrial capex catalysts,
+- valuation and technical entry risk,
+- direct or second-order correlation from other themes such as semiconductors, data centres, power, chemicals, manufacturing, urbanisation and infrastructure.
+
+### Reporting rule
+Every investment report must include either a dedicated `Water Theme Check` section or at least one clearly labelled line stating:
+- `Positive / actionable correlation`,
+- `Watch / emerging correlation`,
+- `Negative / thesis risk`, or
+- `No material water-theme development identified`.
+
+If the source/news does not mention water directly, perform a correlation check anyway. Clearly distinguish source-derived facts from inferred second-order correlations. Do not manufacture a connection when none exists.
+
 ## Reporting Rule — Phase 1
 The daily Phase 1 workflow must explicitly check Acutaas Chemicals, VA Tech WABAG, Unimech Aerospace and Ion Exchange as priority research names even when they are not among the day's most obvious momentum names.
 
@@ -72,6 +114,7 @@ The daily Phase 1 workflow must explicitly check Acutaas Chemicals, VA Tech WABA
 - Surface Acutaas/WABAG/Unimech when meaningful price/valuation weakness creates a better entry setup or fundamentals materially change.
 - Surface Ion around the mandatory result windows or earlier if Roha utilisation/margin/cash-flow evidence changes materially.
 - For each surfaced name, use fresh price and current valuation/earnings evidence; do not rely on stale thesis notes.
+- The mandatory Water Theme Cross-Check above must be completed before finalising the report.
 
 ## Reporting Rule — Bonus / Buyback / Smart Money
 The daily India Bonus, Buyback & Smart Money workflow must perform a lightweight priority check on Acutaas Chemicals, VA Tech WABAG, Unimech Aerospace and Ion Exchange for:
@@ -85,3 +128,5 @@ The daily India Bonus, Buyback & Smart Money workflow must perform a lightweight
 - valuation/technical correction significant enough to trigger Phase 3 revalidation.
 
 Do not manufacture a row when there is no material event. If there is a meaningful development, flag the name clearly as a **Priority Research Watch trigger** and state whether a Phase 3 revalidation is required.
+
+The mandatory Water Theme Cross-Check above must also be completed before finalising this report. If nothing material changed, explicitly state `No material water-theme development identified` rather than silently omitting the theme.
