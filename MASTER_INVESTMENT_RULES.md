@@ -1,12 +1,14 @@
 # Master Investment Rules — Phase 1 / Phase 2 / Phase 3
 
-**Last updated:** 16 August 2026  
+**Last updated:** 31 August 2026  
 **Repository:** `Johnybritto/Market_phase1_report`  
 **Status:** AUTHORITATIVE MASTER RULES
 
 This document is the top-level decision framework for the portfolio, watchlist, Phase 1 scanner and Phase 3 deep dives.
 
 `PHASE_1_2_3_RULES.md` remains the detailed implementation specification for report format, scoring, price-source hierarchy, Phase 1 action taxonomy and the full Phase 3 checklist. If a portfolio or capital-allocation decision conflicts with that file, this master document takes precedence.
+
+`ACADEMIC_INVESTMENT_FRAMEWORKS.md` is the **mandatory authoritative framework companion** for Agency Theory (Jensen & Meckling), Market Efficiency (Fama), Limits to Arbitrage (Shleifer & Vishny), Modern Portfolio Theory (Markowitz) and Arbitrage Pricing Theory (Ross). Before a full Phase 3, portfolio/holdings review, material buy/average/sell decision, stock-vs-stock capital-allocation comparison or macro-event portfolio analysis, the latest version of that file must be read and applied. When a framework materially affects the conclusion, its contribution must be visibly attributed using the format defined in that file. Do not recreate or scatter separate versions of these framework rules in chat memory, daily reports or unrelated files.
 
 The current confirmed portfolio must be read from `PORTFOLIO_HOLDINGS.md`. Holdings and average purchase prices are data, not permanent rules, and must be updated separately whenever positions change.
 
@@ -348,6 +350,7 @@ Phase 1 must continue using the existing detailed report rules, but the scanner 
 - A fallen stock should not receive `Accumulate` unless fundamentals and valuation justify it.
 - Current holding status should inform concentration/risk warnings, not bias the fundamental conclusion.
 - The full watchlist and hidden-theme search should continue even when several existing holdings are performing well.
+- Apply the relevant trigger rules from `ACADEMIC_INVESTMENT_FRAMEWORKS.md`. Do not add extra Phase 1 columns solely for the frameworks; when a framework materially changes a visible row, attribute it concisely inside the existing Outcome Bias or Action text.
 
 ---
 
@@ -366,6 +369,8 @@ Every full Phase 3 for a possible purchase must answer:
 9. What is the correct action: Buy / Accumulate / Wait / Hold / Trim / Avoid?
 
 A Phase 3 should be decisive. Do not default to diplomatic language when evidence supports a strong conclusion.
+
+Every full Phase 3 must also include the **Academic Framework Overlay** defined in `ACADEMIC_INVESTMENT_FRAMEWORKS.md`, including Agency Theory, the Priced-In / Information-Edge test, mispricing/catalyst logic where relevant, portfolio overlap and material factor exposures. Any framework that materially changes the final action must be visibly attributed.
 
 ---
 
@@ -427,7 +432,36 @@ Do not become bullish solely because a stock belongs to an attractive India-grow
 
 ---
 
-## 19. Core Principle
+## 19. Mandatory Academic Framework Governance
+
+The academic frameworks are not optional decorations. They are mandatory lenses when the applicability triggers in `ACADEMIC_INVESTMENT_FRAMEWORKS.md` are met.
+
+### Frameworks incorporated
+
+1. **Agency Theory — Jensen & Meckling**: management/promoter alignment, governance and capital allocation.
+2. **Market Efficiency — Eugene Fama**: priced-in / information-edge test.
+3. **Limits to Arbitrage — Shleifer & Vishny**: mispricing persistence, catalyst and timing risk.
+4. **Modern Portfolio Theory — Harry Markowitz**: portfolio correlation, concentration and diversification by underlying economic risk.
+5. **Arbitrage Pricing Theory — Stephen Ross**: multi-factor macro and event-risk exposure.
+
+### Usage standard
+
+- Read `ACADEMIC_INVESTMENT_FRAMEWORKS.md` before full Phase 3, weekly/full portfolio reviews and major capital-allocation decisions.
+- Use only frameworks relevant to the decision; do not force irrelevant theory into the answer.
+- When a framework materially contributes to the answer, visibly mark the affected conclusion with the framework name and author.
+- Explain the evidence that triggered the framework and how it changed the action.
+- Do not let academic models override verified company facts without a clear reason.
+- Do not use historical correlations, betas or factor sensitivities as permanent truths.
+- Do not create false precision.
+
+### Deliberate exclusions
+
+- **Black–Scholes** is not part of the core cash-equity workflow; reserve it for options/warrants or genuinely option-like securities.
+- **CAPM / Sharpe** is not a primary Phase 1 or stock-selection model. It may be used only as a valuation input/cross-check, such as cost of equity in a DCF, when appropriate.
+
+---
+
+## 20. Core Principle
 
 > **We are not trying merely to reach ₹10 lakh. We are building a ₹10 lakh portfolio that deserves the opportunity to become ₹25 lakh, ₹50 lakh and beyond.**
 
