@@ -1,8 +1,16 @@
 # Priority Research Watch
 
-Last updated: 27 August 2026
+Last updated: 5 September 2026
 
 Purpose: keep a small set of high-conviction research names visible across Phase 1 and the India Bonus/Buyback/Smart Money report, especially when valuation/technical levels become attractive. This is a research-priority file, not an automatic buy list. All decisions remain subject to MASTER_INVESTMENT_RULES.md and Phase 3 validation.
+
+## Water Universe Authority — Mandatory
+
+For all water-theme checks, `WATER_THEME_UNIVERSE.md` is the authoritative permanent listed-equity universe. Water research must NOT be restricted to VA Tech WABAG and Ion Exchange. The full Tier A universe in that file must be scanned in every mandatory weekly/Phase 1 water check, while Tier B/Tier C names are surfaced when evidence, valuation or filings justify it.
+
+WABAG and Ion Exchange receive no automatic preference over EMS Limited, Enviro Infra Engineers, Concord Enviro Systems, Denta Water & Infra Solutions, SPML Infra, Welspun Enterprises, Jash Engineering, WPIL, Vishnu Prakash R Punglia or any future qualifying water company. Every name must compete for incremental capital under `MASTER_INVESTMENT_RULES.md`.
+
+---
 
 ## Tier A — Track Seriously on Meaningful Price Weakness
 
@@ -61,9 +69,9 @@ If by Q3 FY27 the combination is:
 - Roha utilisation rising,
 - chemicals margin rising,
 - operating cash flow positive/improving,
-then immediately re-run a full Phase 3 and compare Ion Exchange against WABAG for incremental capital.
+then immediately re-run a full Phase 3 and compare Ion Exchange against the entire Tier A water universe for incremental capital.
 
-If utilisation rises but margins/cash flow do not improve, keep WABAG preferred and do not reward the Roha narrative.
+If utilisation rises but margins/cash flow do not improve, do not reward the Roha narrative.
 
 ## Mandatory Water Theme Cross-Check — Applies to Every Investment Report
 
@@ -79,15 +87,26 @@ At minimum, scan for material developments in:
 - pumping, membranes, resins, treatment chemicals, EPC and O&M,
 - industrial capex or policy developments that create second-order water demand.
 
-### Mandatory names
-- VA Tech WABAG — always check seriously.
-- Ion Exchange — always check seriously, including the Roha turnaround checkpoints.
-- Scan relevant peers/beneficiaries only when evidence or sector developments justify it; examples may include EMS Ltd, Enviro Infra Engineers, Denta Water, SPML Infra/JWIL and other credible listed participants. Do not force a company into the report merely to fill the theme.
+### Mandatory direct/core universe
+Read `WATER_THEME_UNIVERSE.md` and scan all Tier A names. Current Tier A includes:
+- VA Tech WABAG
+- Ion Exchange (India)
+- EMS Limited
+- Enviro Infra Engineers
+- Concord Enviro Systems
+- Denta Water & Infra Solutions
+- SPML Infra
+- Welspun Enterprises
+- Jash Engineering
+- WPIL
+- Vishnu Prakash R Punglia
+
+Tier B and Tier C names from `WATER_THEME_UNIVERSE.md` must be checked when water-related events, valuation dislocations, order wins, earnings changes or policy/capex developments make them relevant.
 
 ### What the water check must test
 - fresh order wins/losses/cancellations and order quality,
 - order book and executable revenue visibility,
-- O&M/recurring-revenue share,
+- O&M/recurring/consumables revenue share,
 - revenue, EBITDA/PAT and margin direction,
 - operating cash flow and cash conversion,
 - receivables/working capital,
@@ -97,6 +116,14 @@ At minimum, scan for material developments in:
 - policy/municipal/industrial capex catalysts,
 - valuation and technical entry risk,
 - direct or second-order correlation from other themes such as semiconductors, data centres, power, chemicals, manufacturing, urbanisation and infrastructure.
+
+### Mandatory comparison output
+The water check should identify where evidence permits:
+- best business quality,
+- best current risk/reward / entry candidate,
+- most improved thesis since prior review,
+- biggest deterioration / avoid-fresh-buy candidate,
+- whether a non-held water stock is a better use of the next rupee than adding to current holdings.
 
 ### Reporting rule
 Every investment report must include either a dedicated `Water Theme Check` section or at least one clearly labelled line stating:
@@ -108,16 +135,16 @@ Every investment report must include either a dedicated `Water Theme Check` sect
 If the source/news does not mention water directly, perform a correlation check anyway. Clearly distinguish source-derived facts from inferred second-order correlations. Do not manufacture a connection when none exists.
 
 ## Reporting Rule — Phase 1
-The daily Phase 1 workflow must explicitly check Acutaas Chemicals, VA Tech WABAG, Unimech Aerospace and Ion Exchange as priority research names even when they are not among the day's most obvious momentum names.
+The daily Phase 1 workflow must explicitly check Acutaas Chemicals, Unimech Aerospace and the full Tier A water universe in `WATER_THEME_UNIVERSE.md`.
 
-- Do not force them into the visible table every day.
-- Surface Acutaas/WABAG/Unimech when meaningful price/valuation weakness creates a better entry setup or fundamentals materially change.
-- Surface Ion around the mandatory result windows or earlier if Roha utilisation/margin/cash-flow evidence changes materially.
+- Do not force all Tier A water names into the visible table every day.
+- Surface any water name when meaningful price/valuation weakness creates a better entry setup, fundamentals materially change, an important order is won/lost, or a Phase 3 revalidation is needed.
+- Keep Ion's Roha revalidation windows mandatory, but compare it against the entire water universe rather than only WABAG.
 - For each surfaced name, use fresh price and current valuation/earnings evidence; do not rely on stale thesis notes.
 - The mandatory Water Theme Cross-Check above must be completed before finalising the report.
 
 ## Reporting Rule — Bonus / Buyback / Smart Money
-The daily India Bonus, Buyback & Smart Money workflow must perform a lightweight priority check on Acutaas Chemicals, VA Tech WABAG, Unimech Aerospace and Ion Exchange for:
+The daily India Bonus, Buyback & Smart Money workflow must perform a lightweight priority check on Acutaas Chemicals, Unimech Aerospace and the full Tier A water universe for:
 - exchange/company filings,
 - bulk/block/SAST/promoter/institutional disclosures,
 - material earnings/results,
