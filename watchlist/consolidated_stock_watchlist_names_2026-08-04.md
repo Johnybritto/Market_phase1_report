@@ -4,6 +4,13 @@ This file consolidates known stock/watchlist names from the existing watchlist c
 
 > This is a watchlist / pending-merge file, not a buy list. Symbols marked `verify`, `TBD`, `listing-watch`, or `unlisted` require validation before adding to the master Excel.
 
+## Updates — 2026-09-19
+
+- Added **Cochin Shipyard (COCHINSHIP)** — shipbuilding / ship repair / maritime infrastructure.
+- **Tech Mahindra (TECHM)** was already present in the IT / AI / Quantum / Security basket; retained on watchlist.
+- Added **Ashiana Housing (ASHIANA)** — real estate / senior living.
+
+
 ## Confirmed Holdings / Core Tracked Names
 
 | Company | Symbol / Short Name | Theme |
@@ -62,6 +69,7 @@ This file consolidates known stock/watchlist names from the existing watchlist c
 | Jaykay Enterprises | JAYKAY | Engineering / digital / defence-adjacent |
 | Mazagon Dock Shipbuilders | MAZDOCK | Defence shipbuilding |
 | Garden Reach Shipbuilders & Engineers | GRSE | Defence shipbuilding |
+| Cochin Shipyard | COCHINSHIP | Shipbuilding / ship repair / maritime infrastructure |
 | Godrej Industries | GODREJIND | Conglomerate / chemicals / consumer |
 | Bank of Maharashtra | MAHABANK | Banking |
 | AXISCADES Technologies | AXISCADES | Engineering services / aerospace / defence |
@@ -282,6 +290,7 @@ This file consolidates known stock/watchlist names from the existing watchlist c
 | Nexus Select Trust | NXST | Retail REIT |
 | Knowledge Realty Trust | KRT / verify | REIT / listing-watch |
 | DLF | DLF | Real estate |
+| Ashiana Housing | ASHIANA | Real estate / senior living |
 | Godrej Properties | GODREJPROP | Real estate |
 | Prestige Estates Projects | PRESTIGE | Real estate |
 | Brigade Enterprises | BRIGADE | Real estate |
