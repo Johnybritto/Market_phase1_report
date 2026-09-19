@@ -26,6 +26,26 @@ This file must contain the latest:
 
 A material water finding must **not live only inside an individual weekly report**. Update `WATER_THEME_UNIVERSE.md` so subsequent reports inherit the latest research state. Do not overwrite older thesis context silently: update the current ranking/status and append the dated activity log below.
 
+## Priority Water Trio — Mandatory Cross-Report Tracking
+
+The following three companies are the **priority water trio** and must be explicitly tracked in every relevant recurring investment report:
+
+- **VA Tech WABAG (WABAG)** — core water treatment/desalination/reuse/O&M exposure.
+- **Jash Engineering (JASH)** — differentiated water-equipment/export exposure.
+- **Ion Exchange (India) (IONEXCHANG)** — industrial water, resins, membranes, chemicals, consumables, ZLD/reuse and high-purity-water exposure.
+
+### Mandatory report coverage
+
+The trio must appear explicitly in:
+
+1. **Phase 1 reports** — each run must check current price/entry setup, material earnings/order/news changes and whether any action/status changed.
+2. **Weekly Holdings reports** — each weekly review must include a concise water-trio status check, even when Jash or Ion Exchange are not held.
+3. **Bonus reports** — each run must check for material orders, corporate actions, smart-money/exchange disclosures, earnings/news catalysts and entry-risk changes affecting the trio.
+
+This is a **monitoring-priority rule, not a permanent buy ranking**. All Tier A companies must still be scanned. If another Tier A company develops clearly superior business quality, risk/reward, earnings/cash conversion or entry conditions, surface it and challenge the priority trio rather than suppressing it.
+
+Do not omit Jash or Ion Exchange merely because they are not portfolio holdings. Do not give WABAG automatic capital priority merely because it is held.
+
 ## Tier A — Direct / Core Water Universe — Mandatory Weekly Scan
 
 ### VA Tech WABAG (`WABAG`)
