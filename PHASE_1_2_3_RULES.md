@@ -316,6 +316,23 @@ Known unlisted/upcoming IPO/theme names should be treated as `Theme Watch`, not 
 
 ---
 
+### 1.16A Mandatory Water-Trio Visibility
+
+Every Phase 1 run must explicitly review **WABAG, Jash Engineering and Ion Exchange (India)** as the priority water trio defined in `WATER_THEME_UNIVERSE.md`.
+
+At minimum, check for each:
+
+- Fresh price / entry setup.
+- Material earnings or margin change.
+- Order / O&M / consumables / capacity-development change where relevant.
+- Cash-flow / receivables / debt deterioration or improvement.
+- Material exchange disclosure, smart-money activity or news catalyst.
+- Whether the Phase 1 action/status has changed.
+
+These three names may be omitted from the visible Section 2 table only if there is genuinely no actionable change and the fixed 15–25-row cap requires it. If any one of the trio has a material trigger, warning, entry opportunity or thesis change, it must appear in Section 2. The internal Phase 1 scan must still review all three on every run.
+
+This priority rule does not exempt the rest of Tier A from the mandatory water-universe scan.
+
 ### 1.17 Section 3 Count Summary Rules
 
 Section 3 must summarize the full universe by action bucket.
