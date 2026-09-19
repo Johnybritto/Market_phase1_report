@@ -157,7 +157,7 @@ This ranking is a research-priority/capital-allocation view, not a mechanical bu
 | 5 | Enviro Infra Engineers | Strong growth/order visibility but increasingly mixed water + renewable/BESS exposure; separate water economics from diversification. | Stable | WATCH |
 | 6 | Welspun Enterprises | Strong large-project water exposure and long-duration O&M economics, but recent rerating creates chase risk. | Improving business / worsening entry | DO NOT CHASE |
 | 7 | Denta Water & Infra Solutions | Meaningful direct water exposure; working-capital, execution and concentration require continued validation. | Stable | WATCH |
-| 8 | Ion Exchange (India) | High-quality integrated water/chemicals franchise, but recent margin/PAT deterioration means Roha thesis still requires proof through utilisation, margins and cash flow. | Deteriorating | AVOID FRESH BUY |
+| 8 | Ion Exchange (India) | High-quality integrated water/chemicals/resins/lifecycle franchise and strong strategic complement to WABAG, but FY26/Q1 FY27 margin, PAT, CFO, debt and ROCE deterioration require proof of recovery. | Deteriorating / recovery unproven | AWAIT FUNDAMENTAL TRIGGER; AVOID FRESH BUY |
 | 9 | Concord Enviro Systems | Attractive industrial wastewater/ZLD/reuse technology and recurring potential, but latest earnings deterioration requires caution. | Deteriorating | WATCH CLOSELY |
 | 10 | SPML Infra | Material water exposure/order potential but turnaround, debt, cash-flow/JV and execution risk remain high. | Stable / high risk | WATCH / high-risk turnaround |
 | 11 | Vishnu Prakash R Punglia | Direct water EPC exposure but execution/working-capital and earnings quality need stronger evidence. | Deteriorating | AVOID FRESH BUY |
@@ -172,6 +172,20 @@ This ranking is a research-priority/capital-allocation view, not a mechanical bu
 - **Water Theme status:** **Positive / actionable correlation**, but selective rather than sector-wide.
 
 ## Water Theme Activity Log
+
+### 20 Sep 2026 — Ion Exchange Full Phase 3
+- **Strategic position:** retained in the mandatory WABAG–JASH–ION priority trio. Ion remains one of the best structural complements to WABAG because its exposure is concentrated in resins, membranes, specialty chemicals, lifecycle services, ZLD/reuse and high-purity water rather than another generic municipal EPC model.
+- **FY26 quality warning:** revenue grew modestly but margins/PAT weakened materially; consolidated operating cash flow turned negative, borrowings increased and ROCE deteriorated.
+- **Q1 FY27:** ~20% revenue growth did not translate into profit; EBITDA margin fell to ~4.5% and PAT collapsed to roughly ₹3 crore. Treatment Solutions remained loss-making and Roha startup costs materially depressed Specialty Chemicals margins.
+- **Roha thesis:** attractive long-term capacity/exports opportunity but still **not proven**. Do not value capacity as earnings until utilisation, margins and cash conversion improve.
+- **Lifecycle/recurring quality:** strategically positive through O&M, consumables, spares, BOO/BOOT/WaaS and digital services, but exact consolidated recurring-revenue percentage is not disclosed.
+- **Technology/IP:** genuine differentiated R&D, resins/membranes/specialty-chemical capability and disclosed patent/product-development history support the long-term moat.
+- **Recovery gates:** Treatment Solutions EBIT improvement, Specialty Chemicals EBIT margin toward 12–15%+, positive FY27 CFO, stable borrowings and credible Roha utilisation ramp.
+- **Preferred observation/entry zone:** ₹380–405 only with improving operating evidence; ₹340–370 is an event-risk zone only if fundamentals remain intact.
+- **Single thesis-disproof metric:** FY27 consolidated operating cash flow remains negative.
+- **Current action:** **AWAIT FUNDAMENTAL TRIGGER / AVOID FRESH BUY FOR NOW**. Business quality remains high; current earnings/cash evidence does not justify chasing the recovery narrative.
+- **Saved full Phase 3:** `phase3 analysis/ION_EXCHANGE_PHASE3_2026-09-20.md`.
+
 
 ### 19 Sep 2026 — Weekly Holdings Review
 - **WABAG:** retained as best overall business-quality water holding; recent price pullback improves entry but does not by itself justify adding.
