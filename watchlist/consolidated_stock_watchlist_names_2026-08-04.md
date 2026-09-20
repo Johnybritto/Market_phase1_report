@@ -4,6 +4,10 @@ This file consolidates known stock/watchlist names from the existing watchlist c
 
 > This is a watchlist / pending-merge file, not a buy list. Symbols marked `verify`, `TBD`, `listing-watch`, or `unlisted` require validation before adding to the master Excel.
 
+## Updates — 2026-09-20
+
+- **Godrej Agrovet (GODREJAGRO)** — already existed in the broad watchlist from the dairy/agri basket; upgraded after full Phase 3 to **serious/high-priority watch**. Core thesis: Animal Nutrition + Oil Palm + capital-allocation reset; cattle genetics is long-term optionality, not the current valuation thesis. Prefer revalidation around **₹605–620** if fundamentals remain intact, or after strong Q2 FY27 confirmation. Do not chase.
+
 ## Updates — 2026-09-19
 
 - Added **Cochin Shipyard (COCHINSHIP)** — shipbuilding / ship repair / maritime infrastructure.
@@ -39,7 +43,7 @@ This file consolidates known stock/watchlist names from the existing watchlist c
 | Parag Milk Foods | PARAGMILK | Cheese / whey / protein / premium dairy |
 | Vadilal Industries | VADILALIND | Ice cream / frozen dairy |
 | Britannia Industries | BRITANNIA | Branded foods / dairy-adjacent |
-| Godrej Agrovet | GODREJAGRO | Agri / dairy / animal feed |
+| Godrej Agrovet | GODREJAGRO | Agri / animal nutrition / oil palm / dairy / cattle genetics |
 | Nestle India | NESTLEIND | Consumer / nutrition / dairy-adjacent |
 
 ## Business Today Jul 19 — Metals / Natural Resources Basket
