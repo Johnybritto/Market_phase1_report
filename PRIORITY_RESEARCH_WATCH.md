@@ -1,6 +1,6 @@
 # Priority Research Watch
 
-Last updated: 5 September 2026
+Last updated: 20 September 2026
 
 Purpose: keep a small set of high-conviction research names visible across Phase 1 and the India Bonus/Buyback/Smart Money report, especially when valuation/technical levels become attractive. This is a research-priority file, not an automatic buy list. All decisions remain subject to MASTER_INVESTMENT_RULES.md and Phase 3 validation.
 
@@ -34,6 +34,17 @@ WABAG and Ion Exchange receive no automatic preference over EMS Limited, Enviro 
 - Action rule: no chase. Re-run Phase 3 on substantial valuation/price correction or if earnings growth accelerates enough to justify the multiple.
 - Must check: semiconductor-equipment revenue/customer mix, aerospace/defence mix, order book, margins, utilisation/capex, customer concentration, cash conversion, valuation and technical support.
 - Phase 1 treatment: surface prominently when valuation compresses materially or price reaches a technically attractive zone without business deterioration.
+
+## Tier B — Serious Watch / Await Price or Earnings Trigger
+
+### Godrej Agrovet
+- Priority: HIGH-MEDIUM / SERIOUS WATCH
+- Current view: full Phase 3 completed. The investable thesis is **Animal Nutrition + Oil Palm + portfolio/capital-allocation improvement**, with Crop Care/Astec/Dairy/Foods providing turnaround optionality. Cattle genetics is strategically interesting but currently too small to justify a valuation premium.
+- Action rule: **do not chase** after the recent rerating. Prefer revalidation around **₹605–620** if fundamentals remain intact, or after a strong Q2 FY27 result confirms Crop Care recovery and consolidated profit growth.
+- Must check: Animal Nutrition volume and EBIT/tonne, Oil Palm FFB growth/OER and specialty-products progress, Crop Care recovery, Astec profitability, Dairy VAP mix/margins, branded-food mix, consolidated PBT growth, operating cash flow excluding payable build, debt/working capital, and any material disclosure from Godrej Cattle Genetics.
+- Thesis disproof: FY27 consolidated PBT fails to achieve meaningful growth despite strong Animal Nutrition/Oil Palm, showing that weaker businesses continue to absorb value creation.
+- Phase 1 treatment: surface on meaningful price weakness into the preferred revalidation zone, a material Q2/Q3 earnings change, major portfolio-exit/capital-allocation action, or a material cattle-genetics commercialisation milestone.
+- Status: **WATCH / WAIT FOR BETTER ENTRY OR Q2 CONFIRMATION**.
 
 ## Ion Exchange — Roha Turnaround Thesis and Mandatory Revalidation Dates
 
