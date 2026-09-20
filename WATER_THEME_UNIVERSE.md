@@ -1,6 +1,6 @@
 # Water Theme Universe
 
-**Last updated:** 19 September 2026  
+**Last updated:** 20 September 2026  
 **Purpose:** Permanent listed-equity research universe and **single source of truth for water-theme rankings, thesis status and water-related research activity**. This is a research watchlist, not a buy list. All capital decisions remain governed by `MASTER_INVESTMENT_RULES.md` and the full Phase 3 framework.
 
 ## Rule
@@ -22,6 +22,7 @@ This file must contain the latest:
 - Biggest deterioration / avoid-fresh-buy candidate.
 - Material changes in orders, recurring/O&M/consumables revenue, earnings, margins, cash flow, receivables, debt, execution, policy/capex, valuation and technical entry risk.
 - Verified second-order water correlations from semiconductors, data centres, power, chemicals, electronics, manufacturing, infrastructure and urbanisation.
+- **Digital-water layer** findings: GIS/network mapping, digital twins, smart meters/sensors, SCADA/IoT, leak detection, predictive maintenance, remote sensing, asset-health analytics, AI-based utility optimisation, and recurring software/data/service economics.
 - Phase 3 promotion/demotion decisions.
 
 A material water finding must **not live only inside an individual weekly report**. Update `WATER_THEME_UNIVERSE.md` so subsequent reports inherit the latest research state. Do not overwrite older thesis context silently: update the current ranking/status and append the dated activity log below.
@@ -105,6 +106,68 @@ These are not mandatory full reviews every week unless water-related news, valua
 - **Welspun Corp** — pipes used in water infrastructure among other end markets.
 - **Prince Pipes / Supreme Industries / Finolex Industries** — pipes/plumbing exposure; water is only one demand driver.
 
+## Digital Water Layer — Mandatory Adjacent-Technology Scan
+
+Digital water is an **adjacent technology layer**, not a replacement for the core treatment/EPC/equipment universe. It must be checked in every material water-theme review because future water economics may increasingly depend on how utilities and industrial plants **measure, map, monitor, predict and optimise** water networks in addition to physically treating or transporting water.
+
+### What counts as digital water
+
+Track credible commercial exposure to:
+- GIS and geospatial mapping of water/sewer networks,
+- 3D digital twins of utilities/plants/cities,
+- smart water meters and AMI,
+- IoT pressure/flow/quality sensors,
+- SCADA and remote plant/network control,
+- non-revenue-water and leak-detection analytics,
+- predictive maintenance / asset-health software,
+- AI/ML for demand forecasting, pipe-failure prediction and maintenance prioritisation,
+- satellite/remote-sensing inputs for reservoirs, watersheds and infrastructure,
+- digital O&M platforms for treatment plants,
+- software/data subscriptions or recurring monitoring/service revenue.
+
+### Core analytical rule
+
+Do **not** promote a company merely because it uses the words AI, IoT, GIS, digital twin or smart city. A digital-water thesis requires evidence that:
+1. water/wastewater is a real customer/use case,
+2. the company earns material or growing revenue from it,
+3. the solution improves a measurable utility KPI such as leakage, uptime, energy use, billing/collection, asset life, water quality or O&M cost,
+4. the economics are recurring or repeatable where possible,
+5. the digital layer creates switching costs, proprietary data, workflow integration or another defensible moat.
+
+### Digital-water research universe — trigger based
+
+These are **adjacent-tech candidates**, not Tier A water pure-plays:
+
+- **Genesys International (GENESYS)** — GIS, geospatial data and digital-twin exposure across urban/utility infrastructure; water/wastewater use cases require Phase 3 validation for revenue materiality and recurring economics.
+- **C.E. Info Systems / MapmyIndia (MAPMYINDIA)** — mapping/geospatial/IoT platform; monitor only when water-utility or municipal-network contracts are evidenced.
+- **ABB India (ABB), Siemens India (SIEMENS), Schneider Electric Infrastructure (SCHNEIDER), Honeywell Automation India (HONAUT)** — automation/SCADA/control exposure can support water plants and networks, but water is only one end-market; surface only with evidence of material water-related orders/products.
+- **Core water companies themselves** — WABAG, Ion Exchange, Jash, WPIL and others should be checked for digital O&M, telemetry, remote monitoring, smart controls and software/service layers that improve recurring revenue or plant/network performance.
+
+### Digital-water KPIs
+
+When a digital-water name is surfaced, track:
+- water-specific revenue/order contribution,
+- recurring software/data/O&M revenue,
+- installed network/asset coverage,
+- renewal/retention rates where disclosed,
+- number and quality of utility/municipal customers,
+- measurable reduction in non-revenue water/leakage,
+- uptime/asset-life/energy-efficiency improvement,
+- gross/EBITDA margin of digital products versus project services,
+- operating cash flow and receivables,
+- proprietary data/IP and switching costs,
+- cross-sell into treatment, pumping, municipal and industrial-water customers.
+
+### Digital-water conclusion rule
+
+Every major water review should state one of:
+- **Digital water: Positive / actionable**
+- **Digital water: Watch / emerging**
+- **Digital water: Negative / thesis risk**
+- **Digital water: No material development**
+
+Digital-water evidence should **complement**, not automatically outrank, the core treatment/equipment/O&M thesis.
+
 ## Tier C — Small/SME Discovery Bucket
 
 Track opportunistically because liquidity, governance, customer concentration and execution risk can be materially higher:
@@ -130,6 +193,7 @@ For Tier A names, compare at least:
 - policy/municipal/industrial capex catalysts,
 - direct exposure to desalination/reuse/ZLD/high-purity-water where applicable,
 - second-order correlation from semiconductors, electronics, data centres, power, chemicals, manufacturing and urbanisation,
+- **digital-water exposure**: GIS/digital twins, smart metering/sensors, SCADA/IoT, leak/non-revenue-water analytics, predictive maintenance, remote monitoring and recurring software/data economics,
 - technical support/resistance and entry risk.
 
 ## Mandatory Output
@@ -172,6 +236,14 @@ This ranking is a research-priority/capital-allocation view, not a mechanical bu
 - **Water Theme status:** **Positive / actionable correlation**, but selective rather than sector-wide.
 
 ## Water Theme Activity Log
+
+### 20 Sep 2026 — Digital Water Layer Added
+- Added a permanent **Digital Water Layer** to the water-theme framework after the Inc. Fall 2026 analysis highlighted the value of geospatial/AI intelligence in physical utility workflows.
+- Digital water now means GIS/network mapping, digital twins, smart metering/sensors, SCADA/IoT, leak/non-revenue-water analytics, predictive maintenance, remote sensing, digital O&M and recurring software/data/service economics.
+- **Genesys International** is added as a trigger-based adjacent-tech research candidate, not as a Tier A water pure-play. Water-specific revenue materiality, recurring economics, cash flow and moat must be validated through Phase 3 before any capital conclusion.
+- MapmyIndia and diversified automation/control companies are trigger-based only; do not force them into water rankings without evidence of material water exposure.
+- All future Phase 1, weekly holdings, bonus, Phase 3 and magazine water checks must explicitly test whether there is a material digital-water development.
+
 
 ### 20 Sep 2026 — Ion Exchange Full Phase 3
 - **Strategic position:** retained in the mandatory WABAG–JASH–ION priority trio. Ion remains one of the best structural complements to WABAG because its exposure is concentrated in resins, membranes, specialty chemicals, lifecycle services, ZLD/reuse and high-purity water rather than another generic municipal EPC model.
