@@ -97,6 +97,7 @@ At minimum, scan for material developments in:
 - municipal/Jal Jeevan/AMRUT/state capex,
 - pumping, membranes, resins, treatment chemicals, EPC and O&M,
 - industrial capex or policy developments that create second-order water demand.
+- **digital water**: GIS/network mapping, digital twins, smart meters/sensors, SCADA/IoT, leak/non-revenue-water analytics, predictive maintenance, remote monitoring, digital O&M and recurring software/data/service models.
 
 ### Mandatory direct/core universe
 Read `WATER_THEME_UNIVERSE.md` and scan all Tier A names. Current Tier A includes:
@@ -114,6 +115,9 @@ Read `WATER_THEME_UNIVERSE.md` and scan all Tier A names. Current Tier A include
 
 Tier B and Tier C names from `WATER_THEME_UNIVERSE.md` must be checked when water-related events, valuation dislocations, order wins, earnings changes or policy/capex developments make them relevant.
 
+### Digital Water Layer
+Every recurring water check must also read the Digital Water Layer in `WATER_THEME_UNIVERSE.md`. Digital-water names are adjacent technology candidates, not automatic water-stock peers. Surface them only when there is evidence of water/wastewater revenue, utility contracts, measurable operating ROI or a credible recurring software/data/service model. Current trigger-based candidate: **Genesys International**, subject to full Phase 3 validation.
+
 ### What the water check must test
 - fresh order wins/losses/cancellations and order quality,
 - order book and executable revenue visibility,
@@ -127,6 +131,7 @@ Tier B and Tier C names from `WATER_THEME_UNIVERSE.md` must be checked when wate
 - policy/municipal/industrial capex catalysts,
 - valuation and technical entry risk,
 - direct or second-order correlation from other themes such as semiconductors, data centres, power, chemicals, manufacturing, urbanisation and infrastructure.
+- digital-water developments and economics: GIS/digital twins, smart metering/sensors, SCADA/IoT, leak analytics, predictive maintenance, remote monitoring, recurring software/data revenue and water-specific customer traction.
 
 ### Mandatory comparison output
 The water check should identify where evidence permits:
